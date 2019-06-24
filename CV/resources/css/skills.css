@@ -1,0 +1,29 @@
+.skill-one {
+  position: absolute;
+  top: 120px;
+  left: 175px;
+  width: 180px;
+  height: 400px;
+  animation: bottom-slide4 3s linear 1;
+  -webkit-animation: bottom-slide4 3s linear 1;
+}
+
+.skill-one img {
+  width: 120px;
+  margin-top: 10px;
+  animation: zoom 3s ease 1;
+  -webkit-animation: zoom 3s ease 1;
+}
+
+.skills h2 {
+  top: 260px;
+}
+
+.skill-two {
+  position: absolute;
+  top: 170px;
+  left: 410px;
+  width: 240px;
+  animation: bottom-slide1 3s linear 1;
+  -webkit-animation: bottom-slide1 3s linear 1;
+}

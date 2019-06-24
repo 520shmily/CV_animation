@@ -1,0 +1,19 @@
+.scholl-img img {
+  position: absolute;
+  top: 130px;
+  left: 175px;
+  width: 120px;
+  animation: bottom-slide 3s linear 1;
+  -webkit-animation: bottom-slide 3s linear 1;
+}
+
+.school-exp {
+  position: absolute;
+  top: 20px;
+  left: 410px;
+  width: 220px;
+  background-color: #eeeeef;
+  opacity: 0.8;
+  animation: bottom-slide7 3s linear 1;
+  -webkit-animation: bottom-slide7 3s linear 1;
+}

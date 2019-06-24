@@ -1,0 +1,40 @@
+/* .introduction {
+  animation: bottom-slide3 2s ease 8s 1;
+  -webkit-animation: bottom-slide3 2s ease 8s 1;
+} */
+
+.introduction .photo img{
+  position: absolute;
+  top: 130px;
+  left: 165px;
+  width: 130px;
+  border-radius: 5%;
+  animation: bottom-slide 3s linear 1;
+  -webkit-animation: bottom-slide 3s linear 1;
+}
+
+.introduction h2 {
+  animation: bottom-slide2 3s linear 1;
+  -webkit-animation: bottom-slide2 3s linear 1;
+}
+
+.mes {
+  position: absolute;
+  top: 170px;
+  left: 430px;
+  animation: bottom-slide1 3s linear 1;
+  -webkit-animation: bottom-slide1 3s linear 1;
+}
+
+.introduction ul li {
+  list-style: circle;
+}
+
+p {
+  position: absolute;
+  top: 20px;
+  right : 220px;
+  font-size: 18px;
+  animation: right-slide 4s linear 1;
+  -webkit-animation: right-slide 4s linear 1;
+}

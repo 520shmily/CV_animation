@@ -1,0 +1,179 @@
+/* introduction */
+@keyframes right-slide {
+  0% {
+    right: -430px;
+    opacity: 0;
+  }
+  50% {
+    right: -300px;
+    opacity: 0;
+  }
+  100% {
+    right: 220px;
+    opacity: 1;
+  }
+}
+
+@keyframes bottom-slide {
+  from {
+    opacity: 0;
+    top: 200px;
+  }
+  to {
+    opacity: 1;
+    top: 130px;
+  }
+}
+
+@keyframes bottom-slide1 {
+  from {
+    top: 240px;
+  }
+  to {
+    top: 170px;
+  }
+}
+
+@keyframes bottom-slide2 {
+  from {
+    top: 300px;
+    opacity: 0;
+  }
+  to {
+    top: 245px;
+    opacity: 1;
+  }
+}
+
+@keyframes bottom-slide3 {
+  from {
+    top: 0;
+    opacity: 1;
+  }
+  to {
+    top: 245px;
+    opacity: 0;
+  }
+}
+
+/* skills */
+@keyframes bottom-slide4 {
+  from {
+    top: 200px;
+  }
+  to {
+    top: 120px;
+  }
+}
+
+@keyframes zoom {
+  0% {
+    /* width: 0; */
+    transform: scale(0);
+    opacity: 0;
+  }
+  50% {
+    /* width: 0; */
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    /* width: 120px; */
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* experience-item1 */
+@keyframes bottom-slide5 {
+  from {
+    top: 220px;
+  }
+  to {
+    top: 155px;
+  }
+}
+
+@keyframes bottom-slide6 {
+  from {
+    top: 80px;
+  }
+  to {
+    top: 0;
+  }
+}
+
+@keyframes left {
+  0% {
+    left: -180px;
+    opacity: 0;
+  }
+  50% {
+    left: -180px;
+    opacity: 0;
+  }
+  100% {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes right {
+  0% {
+    right: -180px;
+    opacity: 0;
+  }
+  50% {
+    right: -180px;
+    opacity: 0;
+  }
+  100% {
+    right: 0;
+    opacity: 1;
+  }
+}
+
+/* experience-school */
+
+@keyframes bottom-slide7 {
+  from {
+    top: 320px;
+  }
+  to {
+    top: 20;
+  }
+}
+
+/* prize */
+@keyframes top {
+  0% {
+    top: -20px;
+  }
+  100% {
+    top: 150px;
+  }
+}
+
+/* self-assessment */
+
+@keyframes zoom1 {
+  0% {
+    /* width: 0; */
+    transform: scale(0);
+    opacity: 0;
+  }
+  100% {
+    /* width: 120px; */
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes right-slide1 {
+  from {
+    right: -80px;
+  }
+  to {
+    right: 210px;
+  }
+}

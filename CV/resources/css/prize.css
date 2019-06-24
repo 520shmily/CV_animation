@@ -1,0 +1,20 @@
+.prize-mes {
+  position: absolute;
+  top: 130px;
+  left: 175px;
+  animation: bottom-slide 1s ease 1;
+  -webkit-animation: bottom-slide 1s ease 1;
+}
+
+.prize-mes ul li {
+  margin: 10px 0;
+}
+
+.prize-photo img{
+  position: absolute;
+  top: 150px;
+  left: 430px;
+  width: 185px;
+  animation: top 1s ease-in 1;
+  -webkit-animation: top 1s ease-in 1;
+}

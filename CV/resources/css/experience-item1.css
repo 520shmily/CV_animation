@@ -1,0 +1,38 @@
+.item-mes {
+  position: absolute;
+  top: 120px;
+  left: 170px;
+  width: 180px;
+}
+
+.item-mes section {
+  position: relative;
+  width: 140px;
+  font-size: 15px;
+  animation: bottom-slide6 3s linear 1;
+  -webkit-animation: bottom-slide6 3s linear 1;
+}
+
+.item-mes img {
+  position: relative;
+  width: 150px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  animation: right 2s linear 1;
+  -webkit-animation: right 2s linear 1;
+}
+
+.item-mes h4 {
+  position: relative;
+  animation: left 2s linear 1;
+  -webkit-animation: left 2s linear 1;
+}
+
+.item-skill {
+  position: absolute;
+  top: 155px;
+  left: 410px;
+  width: 240px;
+  animation: bottom-slide5 3s linear 1;
+  -webkit-animation: bottom-slide5 3s linear 1;
+}

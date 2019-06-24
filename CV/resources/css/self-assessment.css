@@ -1,0 +1,21 @@
+.self-photo img {
+  position: absolute;
+  top: 130px;
+  left: 165px;
+  width: 130px;
+  animation: zoom1 2s ease 1;
+  -webkit-animation: zoom1 2s ease 1;
+}
+
+.self-mes {
+  position: absolute;
+  top:170px;
+  right: 210px;
+  width: 200px;
+  animation: right-slide1 2s ease 1;
+  -webkit-animation: right-slide1 2s ease 1;
+}
+
+.self-mes ul li {
+  list-style: circle;
+}

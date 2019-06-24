@@ -1,0 +1,27 @@
+.content > div {
+  width: 835px;
+  height: 480px;
+  border-radius: 2%;
+  background: url('../images/background.jpg');
+  background-size: cover;
+}
+
+.introduction, 
+.skills, 
+.experience-item1, 
+.experience-item2, 
+.experience-school, 
+.prize, 
+.self-assessment {
+  position: relative;
+}
+
+h2 {
+  position: absolute;
+  top: 245px;
+  left: 340px;
+}
+
+.item {
+  display: none;
+}

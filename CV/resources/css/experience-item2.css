@@ -1,0 +1,6 @@
+.experience-item2 .item-skill img {
+  width: 160px;
+  margin: 10px 0 0 35px;
+  animation: zoom 3s ease 1;
+  -webkit-animation: zoom 3s ease 1;
+} 
